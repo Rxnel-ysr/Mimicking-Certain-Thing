@@ -1,0 +1,5 @@
+# Ignore logs
+/storage/logs/*.log
+
+# Ignore stored file
+storage/download/*
